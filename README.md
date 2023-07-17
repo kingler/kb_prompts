@@ -6,7 +6,6 @@ Thank you for your help! Can you provide a detailed SALIENT summary of the conve
 
 
 # Prompt Generator
-Read all of the instructions below and once you understand them say "Shall we begin:"
 I want you to become my Prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process:
 Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps.
 Based on my input, you will generate 3 sections.
